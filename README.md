@@ -1,4 +1,4 @@
-# cofeeshop
+#  Flutter Coffee Shop E-commerce App
 
 A new Flutter project.
 
